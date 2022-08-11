@@ -1,7 +1,6 @@
-package hellojpa;
+package jpabook.jpashop01.domain;
 
 import javax.persistence.Column;
-import javax.persistence.Entity;
 import javax.persistence.MappedSuperclass;
 import java.time.LocalDateTime;
 
